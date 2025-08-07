@@ -1,14 +1,14 @@
 body {
-  background-color: #f6fbf4;
+  background-color: #C2F4A2;
 }
 
 .logo {
   width: 13em;
-  height: 63px;
+  height: 100px;
 }
 
 h1 {
-  font-weight: 300;
+  font-weight: 00;
 }
 
 h1 strong {
@@ -21,7 +21,7 @@ h1 strong {
 }
 
 .whoop {
-  background-color: #5fd068;
+  background-color: #d05fb4;
   width: 8em;
   font-size: 30px !important;
   color: #ffffff;
